@@ -1,0 +1,28 @@
+<footer class="footer">
+  <div class="footer-measure">
+    <div class="footer-logo">
+      Company name
+    </div>
+    <div class="footer-nav">
+      <ul class="footer-list">
+        {% for item in navigation.items %}
+        <li>
+          <a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}
+            >{{ item.text }}</a
+          >
+        </li>
+        {% endfor %}
+      </ul>
+      <ul class="footer-list">
+        <li><a href="https://www.facebook.com/">Facebook</a></li>
+        <li><a href="https://www.twitter.com/">Twitter</a></li>
+        <li><a href="https://instagram/">Instagram</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-measure">
+    <div class="footer-copyright">
+      <p>&copy; {% year %} {{ meta.siteName }}</p>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,20 @@
+<header class="header">
+  <div class="header-measure">
+    <div class="header-logo">
+      <a href="/">Company logo</a>
+    </div>
+    <div class="header-nav">
+      <nav class="nav">
+        <ul>
+        {% for item in navigation.items %}
+        <li>
+          <a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}
+            >{{ item.text }}</a
+          >
+        </li>
+        {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>

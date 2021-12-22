@@ -1,0 +1,8 @@
+{% for project in collections.projects %}
+<div class="articleList-article">
+  <h2 class="articleList-articleTitle">
+    <a href="{{ project.url }}">{{ project.data.title }}</a>
+  </h2>
+  <p class="publication-meta">{{ project.data.summary }}</p>
+</div>
+{% endfor %}

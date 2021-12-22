@@ -1,0 +1,33 @@
+{
+  "name": "site-template",
+  "version": "1.0.0",
+  "description": "Extremely minimal Eleventy starter to kickstart a simple multi-page site / a nearly opinionless foundation to continue building on",
+  "main": "index.html",
+  "scripts": {
+    "watch:sass": "sass  --no-source-map --watch src/sass:public/css",
+    "watch:eleventy": "eleventy --serve",
+    "build:sass": "sass  --no-source-map src/sass:public/css",
+    "build:eleventy": "eleventy",
+    "postbuild": "postcss public/css/*.css -u autoprefixer cssnano -r --no-map",
+    "start": "npm-run-all build:sass --parallel watch:*",
+    "build": "npm-run-all build:sass build:eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahart14/template.git"
+  },
+  "author": "ahart14",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "autoprefixer": "^10.4.0",
+    "cross-env": "^7.0.3",
+    "cssnano": "^5.0.10",
+    "postcss": "^8.3.11",
+    "postcss-cli": "^9.0.2",
+    "sass-mq": "^5.0.1"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.45.0"
+  }
+}
