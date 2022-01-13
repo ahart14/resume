@@ -5,6 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}{% if page.url != '/' %} | {{ meta.siteName }}{% endif %}</title>
+  <link rel="stylesheet" href="https://use.typekit.net/oks3fwq.css">
   <link rel="stylesheet" href="{{ '/css/styles.css' | url }}">
 </head>
 <body>
@@ -14,7 +15,6 @@
 {{ content | safe }}
 
 {% include "partials/footer.njk" %}
-
-<script href="{{ '/js/script.js' | url }}"></script>
+<script src="{{ '/js/script.js' | url }}" defer></script>
 </body>
 </html>

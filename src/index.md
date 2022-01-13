@@ -1,45 +1,34 @@
 ---
-title: 11ty template
-summary: This is the home page summary
+title: Andy Hart
+summary: I’m a UX Engineer from Minneapolis, MN with a background in designing technical solutions for government, non-profit, and advocacy-based organizations.
 layout: base.njk
+contactEmail: "andrew.hart14@gmail.com"
+contactPhone: "(612)396-4479"
 ---
 <div class="content">
-  <div class="content-measure">
-    <div class="content-block">
-      <div class="content-block1">
-        <h2>Content section</h2>
-        <p>Add supporting content here.</p>
-        <p><a href="/">Link to details</a></p>
-      </div>
-      <div class="content-block2">
-        <div class="image image--small">
-          <figure>
-            <img src="https://dummyimage.com/800x360/f1f1f1/aaa" alt="" width="100%">
-            <figcaption>Image caption</figcaption>
-          </figure>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="content-measure">
+<div class="content-indent">
+<h2>Experience</h2>
+{% include "partials/job.njk" %}
 </div>
-{% include 'partials/card.njk' %}
+</div>
+</div>
 <div class="content">
 <div class="content-measure">
-<div class="content-block">
-<div class="content-block1">
-<h2>Posts</h2>
-<p>Add supporting content here.</p>
+<div class="content-indent">
+<h2>Certifications</h2>
+{% include "partials/certification.njk" %}
 </div>
-<div class="content-block2">
-{% for post in collections.posts %}
-<div class="publication">
-<h3 class="publication-title">
-<a href="{{ post.url }}">{{ post.data.title }}</a>
-</h3>
-<p class="publication-meta">{{ post.data.summary }}</p>
 </div>
-{% endfor %}
 </div>
+<div class="content">
+<div class="content-measure">
+<div class="content-indent">
+<h2>Skills</h2>
+<p>Adaptability, curiousity/eager to learn, analytical, problem solving, design thinking, organizational strategy, web governance/leadership, staff supervision/management, front-end development (HTML, CSS, JS, responsive design, frameworks, Sass, Gulp/Grunt), user experience (prototyping, wireframing, user journeys, IA, usability testing), web content management systems (Sitecore, Drupal, WordPress), design systems/pattern libraries, accessibility/WCAG, Google Analytics, SEO, Git/GitHub
+</p>
+<p><strong>Experience with:</strong></p>
+<p>RESTful Services and APIs, JAMstack, Angular, Vue.js, PHP/Apache/MySQL, .NET/C# stack, Microsoft Azure DevOps, Microsoft IIS/SQL server, ArcGIS</p>
 </div>
 </div>
 </div>

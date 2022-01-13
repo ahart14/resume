@@ -1,0 +1,7 @@
+{%- for certification in collections.certifications | reverse -%}
+<div class="project">
+<p class="project-date">{{ certification.data.date }}</p>
+<h3 class="project-title">{{ certification.data.title }}</h3>
+<p class="project-company">{{ certification.data.summary }}</p>
+</div>
+{%- endfor -%}

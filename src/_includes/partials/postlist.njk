@@ -1,8 +1,8 @@
-{% for post in collections.posts | reverse %}
+{% for job in collections.jobs | reverse %}
 <div class="articleList-article">
   <h2 class="articleList-articleTitle">
-    <a href="{{ post.url }}">{{ post.data.title }}</a>
+    <a href="{{ job.url }}">{{ job.data.title }}</a>
   </h2>
-  <p class="publication-meta">{{ post.data.summary }}</p>
+  <p class="publication-meta">{{ job.data.summary }}</p>
 </div>
 {% endfor %}

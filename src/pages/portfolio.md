@@ -4,8 +4,5 @@ summary: I’m a UX Engineer from Minneapolis, MN with a background in designing
 contactEmail: "andrew.hart14@gmail.com"
 contactPhone: "612-396-4479"
 ---
-<h2>Contact</h2>
-<ul>
-<p class="heading-text">Email: <a href="mailto:{{ contactEmail }}">{{ contactEmail }}</a><br>
-Phone: <a href="tel:+1{{ contactPhone }}">{{ contactPhone }}</a></p>
-</ul>
+<h2>Portfolio</h2>
+{% include "partials/portfoliolist.njk" %}

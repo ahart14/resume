@@ -35,3 +35,10 @@ Make sure to properly credit:
 - Metadata for <head>
 
 
+Other potential projects: 
+CJCC
+Northpoint
+Hennepin Health
+
+Add toolkit? Skills? 
+UX engineer??

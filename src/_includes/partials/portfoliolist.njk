@@ -1,0 +1,16 @@
+{% for portfolio in collections.portfolio | reverse %}
+<div class="project">
+<p class="project-date">{{ portfolio.data.year }}</p>
+<h3 class="project-title">{{ portfolio.data.title }}</h3>
+<p class="project-company">{{ portfolio.data.company }}</p>
+<toggle-section open="false">
+  <h3 id="{{ portfolio.data.title }}">About the {{ portfolio.data.title }} project</h3>
+  <div class="toggle-content">
+ {{ portfolio.templateContent | safe }}
+  </div>
+</toggle-section>
+</div>
+{%- endfor -%}
+
+
+

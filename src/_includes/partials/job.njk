@@ -1,0 +1,9 @@
+{%- for job in collections.jobs | reverse -%}
+<div class="project">
+<p class="project-date">{{ job.data.dates }}</p>
+<h3 class="project-title">{{ job.data.summary }}</h3>
+<p class="project-company"><span class="project-company-name">{{ job.data.title }}</span>&nbsp;&nbsp;|&nbsp;&nbsp;{{ job.data.location}}</p>
+{{ job.templateContent | safe }}
+</div>
+{%- endfor -%}
+

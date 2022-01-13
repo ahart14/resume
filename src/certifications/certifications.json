@@ -1,0 +1,5 @@
+{
+  "layout": "partials/certification.njk",
+  "permalink": "/{{ page.fileSlug }}/",
+  "tags": "certifications"
+}

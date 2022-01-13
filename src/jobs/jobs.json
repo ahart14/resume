@@ -1,0 +1,5 @@
+{
+  "layout": "partials/job.njk",
+  "permalink": "/{{ page.fileSlug }}/",
+  "tags": "jobs"
+}
