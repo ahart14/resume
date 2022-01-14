@@ -7,6 +7,16 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/js/");
   eleventyConfig.addWatchTarget("./src/js/");
 
+  //passthrough all favicon files
+  /* eleventyConfig.addPassthroughCopy('src/favicon.ico');
+  eleventyConfig.addPassthroughCopy('src/apple-touch-icon.png');
+  eleventyConfig.addPassthroughCopy('src/icon-192.png');
+  eleventyConfig.addPassthroughCopy('src/icon-512.png');
+  eleventyConfig.addPassthroughCopy('src/icon.svg');
+  eleventyConfig.addPassthroughCopy('src/manifest.webmanifest'); */
+  eleventyConfig.addPassthroughCopy({"./src/favicon": "/"});
+  eleventyConfig.addWatchTarget({"./src/favicon": "/"});
+
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
   // open site in local brower when started
