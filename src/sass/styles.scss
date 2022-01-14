@@ -67,11 +67,15 @@ hr {
 }
 a:link,
 a:visited {
-  color: #0277bd;
+  color: #1d70b8;
+  text-decoration: underline;
+  text-decoration-thickness: max(1px, 0.0625rem);
+  text-underline-offset: 0.1em;
 }
 a:hover,
 a:focus {
-  text-decoration: none;
+  color: #003078;
+  text-decoration-thickness: max(3px, 0.1875rem, 0.12em);
 }
 a:focus {
   outline: 3px solid #ffd346;
@@ -479,12 +483,14 @@ figcaption {
     padding-right: 41px;
   }
 }
-.footer a {
-  color: $primary-dark;
+@media (min-width: 50em) {
+  .footer-nav {
+    float: right;
+  }
 }
-.nav ul {
+.footer-nav ul li {
   list-style: none;
-  font-size: 0px;
+  padding: 4px 0;
 }
 .nav li {
   line-height: 20px;

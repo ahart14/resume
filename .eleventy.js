@@ -6,14 +6,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/sass/");
   eleventyConfig.addPassthroughCopy("./src/js/");
   eleventyConfig.addWatchTarget("./src/js/");
-
-  //passthrough all favicon files
-  /* eleventyConfig.addPassthroughCopy('src/favicon.ico');
-  eleventyConfig.addPassthroughCopy('src/apple-touch-icon.png');
-  eleventyConfig.addPassthroughCopy('src/icon-192.png');
-  eleventyConfig.addPassthroughCopy('src/icon-512.png');
-  eleventyConfig.addPassthroughCopy('src/icon.svg');
-  eleventyConfig.addPassthroughCopy('src/manifest.webmanifest'); */
+  // Set directories to pass favicons to the root folder
   eleventyConfig.addPassthroughCopy({"./src/favicon": "/"});
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);

@@ -28,10 +28,17 @@
           display: flex;
           justify-content: space-between;
           width: 100%;
-          padding: 1rem 0;
+          padding: 1.125rem 0;
+          font-size: 1.125rem;
+          font-weight: 500;
         }
 
-        h3 button:focus svg {
+        h3 button:hover {
+          text-decoration: underline;
+        }
+
+        h3 button:focus svg,
+        h3 button:hover svg {
           outline: 2px solid;
         }
 
