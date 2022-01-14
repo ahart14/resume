@@ -498,6 +498,14 @@ figcaption {
   display: block;
   display: inline-block;
 }
+footer a:link,
+footer a:visited {
+  color: $primary-dark;
+}
+footer a:hover,
+footer a:focus {
+  color: #000;
+}
 .nav a:link,
 .nav a:visited {
   text-decoration: none;
