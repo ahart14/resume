@@ -15,7 +15,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/icon.svg');
   eleventyConfig.addPassthroughCopy('src/manifest.webmanifest'); */
   eleventyConfig.addPassthroughCopy({"./src/favicon": "/"});
-  eleventyConfig.addWatchTarget({"./src/favicon": "/"});
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
