@@ -6,6 +6,6 @@ contactEmail: "andrew.hart14@gmail.com"
 contactPhone: "612-396-4479"
 ---
 <ul>
-<p class="heading-text">Email: <a href="mailto:{{ contactEmail }}">{{ contactEmail }}</a><br>
+<p class="text-strong">Email: <a href="mailto:{{ contactEmail }}">{{ contactEmail }}</a><br>
 Phone: <a href="tel:+1{{ contactPhone }}">{{ contactPhone }}</a></p>
 </ul>

@@ -215,7 +215,7 @@ h2.project-title:first-child {
   max-width: 620px;
   font-size: 1.125rem;
   font-weight: 500;
-  line-height: 1.875rem;
+  line-height: 1.75rem;
   margin-bottom: 25px;
 }
 @media (min-width: 37.5em) {
@@ -231,28 +231,18 @@ h2.project-title:first-child {
   margin-left: 25px;
   margin-bottom: 15px;
 }
-
+p.text-strong {
+  font-weight: 700; 
+  line-height: 2;
+}
 @media (min-width: 64em) {
   .content-block {
     display: flex;
     justify-content: space-between;
   }
 }
-.content-blockImage {
-  max-width: 100%;
-}
 .content + .content {
   padding-top: 0;
-}
-.content blockquote {
-  font-style: italic;
-  margin-bottom: 25px;
-  padding: 0 20px 0 18px;
-  color: $primary-dark;
-  border-left: 3px solid $primary-dark;
-}
-.content blockquote cite {
-  font-weight: bold;
 }
 .content-indent figure {
   margin-bottom: 45px;
@@ -318,29 +308,6 @@ figcaption {
     font-size: 1.125rem;
   }
 }
-.article-date {
-  color: #788b9b;
-  font-size: 1.125rem;
-  line-height: 1.25rem;
-  font-weight: bold;
-  letter-spacing: 0.02em;
-  text-transform: uppercase;
-}
-@media (min-width: 37.5em) {
-  .article-date {
-    font-size: 1.25rem;
-  }
-}
-.caseStudy-meta {
-  color: #306175;
-  font-size: 1.125rem;
-  line-height: 1.875rem;
-}
-@media (min-width: 37.5em) {
-  .caseStudy-meta {
-    font-size: 1.25rem;
-  }
-}
 .header-measure {
   max-width: 1200px;
 }
@@ -392,14 +359,9 @@ figcaption {
   }
 }
 .footer {
-  background-color: #edeeef;
+  background-color: $primary-accent;
   padding-top: 25px;
   padding-bottom: 25px;
-}
-@media (min-width: 37.5em) {
-  .footer {
-    padding-top: 50px;
-  }
 }
 .footer-measure {
   max-width: 1200px;
@@ -418,58 +380,45 @@ figcaption {
   }
 }
 .footer-logo {
-  line-height: 30px;
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 25px;
-}
-@media (min-width: 50em) {
-  .footer-logo {
-      float: left;
-  }
-}
-.footer-copyright {
-  margin-top: 10px;
-  padding-top: 25px;
-  border-top: 1px solid #545454;
+  display: inline-block;
 }
 .footer-list {
   font-size: 16px;
-  font-weight: 500;
-  line-height: 25px;
+  font-weight: 700;
   list-style: none;
-  margin-bottom: 25px;
+  color: #fff
 }
 @media (min-width: 50em) {
   .footer-list {
-    line-height: 30px;
     font-size: 18px;
-    width: 165px;
-    padding-right: 41px;
   }
 }
-@media (min-width: 50em) {
-  .footer-nav {
-    float: right;
-  }
+.footer-nav {
+  float: right;
+  margin-top: 1rem;
 }
 .footer-nav ul li {
   list-style: none;
-  padding: 4px 0;
+  padding: 0 12px 0 0;
+  display: inline-block;
 }
 .nav li {
   line-height: 20px;
   font-size: 18px;
-  display: block;
   display: inline-block;
 }
 footer a:link,
 footer a:visited {
-  color: $primary-dark;
+  color: #fff;
 }
 footer a:hover,
 footer a:focus {
-  color: #000;
+  color: #fff;
+}
+footer a:active,
+a[aria-current=page] {
+  text-decoration-thickness: max(3px, 0.1875rem, 0.12em);
+  font-weight: 800;
 }
 .nav a:link,
 .nav a:visited {
@@ -520,25 +469,6 @@ footer a:focus {
 .articleList .articleList-articleTitle {
   margin-bottom: 15px;
 }
-.heading-caption {
-  font-size: 1.125rem;
-  line-height: 1.125rem;
-  margin-top: -100px;
-  text-transform: uppercase;
-  letter-spacing: 0.02em;
-  padding: 3px 5px;
-  margin: 0;
-}
-.heading-caption--note {
-  color: #6b7280 !important;
-  background-color: #f9fafb;
-}
-.heading-caption--article {
-  border: 2px solid $primary-dark;
-  color: $primary-dark !important;
-  letter-spacing: 0em;
-  padding: 1px 5px;
-}
 .articleList .articleList-articleTitle > a:link,
 .articleList .articleList-articleTitle > a:visited {
   text-decoration: none;
@@ -560,31 +490,6 @@ footer a:focus {
     margin-bottom: 75px;
   }
 }
-.caseStudyList .caseStudyList-title {
-  margin-bottom: 15px;
-}
-.caseStudyList .caseStudyList-title a:link,
-.caseStudyList .caseStudyList-title a:visited {
-  text-decoration: none;
-  display: block;
-  color: #039be5;
-}
-.caseStudyList .caseStudyList-title a:hover {
-  color: #0277bd;
-}
-.caseStudyList .caseStudyList-meta {
-  color: #545454;
-  margin-bottom: 55px;
-  font-size: 1rem;
-  line-height: 1.25rem;
-}
-@media (min-width: 37.5em) {
-  .caseStudyList .caseStudyList-meta {
-    font-size: 1.125rem;
-    margin-bottom: 75px;
-  }
-}
-
 // portfolio expand
  toggle-section {
    display: block;
