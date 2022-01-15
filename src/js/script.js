@@ -39,7 +39,7 @@
 
         h3 button:focus svg,
         h3 button:hover svg {
-          outline: 2px solid;
+          outline: 2px solid #ffd346;
         }
 
         h3 button [aria-expanded="true"] {
@@ -48,7 +48,8 @@
 
         button svg {
           height: 1.5rem;
-          color: #FF5E3D;
+          color: #2d3748;
+          margin-right: 4px;
         }
 
         [aria-expanded="true"] .vert {

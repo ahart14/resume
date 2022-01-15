@@ -1,7 +1,8 @@
 ---
-title: Andy Hart
-summary: I’m a UX Engineer from Minneapolis, MN with a background in designing technical solutions for government, non-profit, and advocacy-based organizations.
-layout: base.njk
+title: Resume
+description: I’m a UX Engineer from Minneapolis, MN with a background in designing technical solutions for government, non-profit, and advocacy-based organizations.
+metaDesc: I'm a UX Engineer from Minneapolis, MN with a background in designing technical solutions for government, non-profit, and advocacy-based organizations.
+layout: home.njk
 contactEmail: "andrew.hart14@gmail.com"
 contactPhone: "(612)396-4479"
 ---

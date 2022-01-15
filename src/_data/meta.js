@@ -4,6 +4,8 @@ module.exports = {
   url: process.env.URL || "http://localhost:8080",
   siteName: "Andy Hart",
   siteDescription:
-    "Extremely minimal Eleventy starter to kickstart a simple multi-page site / a nearly opinionless foundation to continue building on.",
-  authorName: "Andy Hart" // optional
+    "I'm a UX Engineer from Minneapolis, MN with a background in designing technical solutions for government, non-profit, and advocacy-based organizations.",
+  authorName: "Andy Hart",
+  socialImage: "images/social-image-1200-630.png",
+  domain: "https://andyhart.me/"
 };

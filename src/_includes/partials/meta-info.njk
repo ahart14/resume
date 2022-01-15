@@ -1,42 +1,32 @@
-{% set pageTitle = title + ' - ' + site.name %}
+{% set pageTitle = title + ' | ' + meta.siteName %}
+{% set canonicalUrl = meta.domain + page.url | slug %}
+{% set socialImageUrl = meta.domain + meta.socialImage %}
+{% set altTextTitle = meta.siteName+  "'s " + title %}
 
-{# We don't want any duplication. This is likely for the home page. #}
-{% if site.name === title %} 
-  {% set pageTitle = title %}
-{% endif %}
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-{% set siteTitle = site.name %}
-{% set currentUrl = site.url + page.url %}
+<title>{{ pageTitle }} </title>
+<meta name="description" content="{{ description }}" />
+<link rel="canonical" href="{{ canonicalUrl }}" />
 
-{# If the page’s Front Matter has specific metaTitle and/or metaDesc items, switch 
-  them into the mix. #}
-{% if metaTitle %}
-  {% set pageTitle = metaTitle %}
-{% endif %}
-
-{% if not metaDesc %}
-  {% set metaDesc = summary %}
-{% endif %}
-
-
-<title>{{ pageTitle }}</title>
-<link rel="canonical" href="{{ currentUrl }}" />
-
-<meta property="og:site_name" content="{{ siteTitle }}" />
-<meta property="og:title" content="{{ pageTitle }}" />
+<meta property="og:title" content="{{ pageTitle }}">
 <meta property="og:type" content="website" />
-<meta property="og:url" content="{{ currentUrl }}" />
+<meta property="og:description" content="{{ description }}">
+<meta property="og:image" content="{{ socialImageUrl }}">
+<meta property="og:url" content="{{ canonicalUrl}}">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:image:alt" content="Page image for {{ altTextTitle}}" />
+<meta name="twitter:image:alt" content="Page image for {{ altTextTitle }}" />
 
-{% if socialImage %}
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="{{ socialImage }}" />
-  <meta name="twitter:image" content="{{ socialImage }}" />
-  <meta property="og:image:alt" content="Page image for {{ site.name }}" />
-  <meta name="twitter:image:alt" content="Page image for {{ site.name }}" />
-{% endif %}
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
-{% if metaDesc %}
-  <meta name="description" content="{{ metaDesc }}" />
-  <meta name="twitter:description" content="{{ metaDesc }}" />
-  <meta property="og:description" content="{{ metaDesc }}" />
-{% endif %}
+<link rel="stylesheet" href="https://use.typekit.net/oks3fwq.css">
+<link rel="stylesheet" href="{{ '/css/styles.css' | url }}">
+<link rel="manifest" href="/manifest.webmanifest">
+
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#edf2f7">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#2d3748">
