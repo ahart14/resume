@@ -19,5 +19,4 @@ The Digital Service team was brought in to improve Hennepin County's single sign
 
 I also built a proof-of-concept service portal to demonstrate how this tool could be used across the enterprise.
 
-The first application to adopt the new single sign-on tool in production was the Citizen Advisory Board application:
-https://citizenadvisoryapplication.hennepin.us/
+The first application to adopt the new single sign-on tool in production was the [Citizen Advisory Board application](https://citizenadvisoryapplication.hennepin.us/).
