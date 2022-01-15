@@ -26,10 +26,36 @@ contactPhone: "(612)396-4479"
 <div class="content-measure">
 <div class="content-indent">
 <h2 class="page-heading">Skills</h2>
-<p>Adaptability, curiousity/eager to learn, analytical, problem solving, design thinking, organizational strategy, web governance/leadership, staff supervision/management, front-end development (HTML, CSS, JS, responsive design, frameworks, Sass, Gulp/Grunt), user experience (prototyping, wireframing, user journeys, IA, usability testing), web content management systems (Sitecore, Drupal, WordPress), design systems/pattern libraries, accessibility/WCAG, Google Analytics, SEO, Git/GitHub
-</p>
+<ul class="list-compact">
+<li>Adaptability</li>
+<li>Curiousity/eager to learn</li>
+<li>Analytical</li>
+<li>Problem solving</li>
+<li>Design thinking</li>
+<li>Organizational strategy</li>
+<li>Web governance/leadership</li>
+<li>Staff supervision/management</li>
+<li>Front-end development (HTML, CSS, JS, responsive design, frameworks, Sass, Gulp/Grunt)</li>
+<li>User experience (prototyping, wireframing, user journeys, IA, usability testing)</li>
+<li>Web content management systems (Sitecore, Drupal, WordPress)</li>
+<li>Design systems/pattern libraries</li>
+<li>Accessibility/WCAG</li>
+<li>Google Analytics</li>
+<li>SEO</li>
+<li>Git/GitHub</li>
+</ul>
 <p><strong>Experience with:</strong></p>
-<p>RESTful Services and APIs, JAMstack, Angular, Vue.js, PHP/Apache/MySQL, .NET/C# stack, Microsoft Azure DevOps, Microsoft IIS/SQL server, ArcGIS</p>
+<ul class="list-compact">
+<li>RESTful Services and APIs</li>
+<li>JAMstack/Static site generators</li>
+<li>Angular</li>
+<li>Vue.js</li>
+<li>PHP/Apache/MySQL</li>
+<li>.NET/C# stack</li>
+<li>Microsoft Azure DevOps</li>
+<li>Microsoft IIS/SQL server</li>
+<li>ArcGIS</li>
+</ul>
 </div>
 </div>
 </div>
