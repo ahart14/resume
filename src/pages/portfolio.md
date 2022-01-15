@@ -5,5 +5,4 @@ metaDesc: I'm a UX Engineer from Minneapolis, MN with a background in designing 
 contactEmail: "andrew.hart14@gmail.com"
 contactPhone: "612-396-4479"
 ---
-<h2>{{ title }}</h2>
 {% include "partials/portfoliolist.njk" %}

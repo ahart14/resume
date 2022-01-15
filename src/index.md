@@ -9,7 +9,7 @@ contactPhone: "(612)396-4479"
 <div class="content">
 <div class="content-measure">
 <div class="content-indent">
-<h2>Experience</h2>
+<h2 class="page-heading">Experience</h2>
 {% include "partials/job.njk" %}
 </div>
 </div>
@@ -17,7 +17,7 @@ contactPhone: "(612)396-4479"
 <div class="content">
 <div class="content-measure">
 <div class="content-indent">
-<h2>Certifications</h2>
+<h2 class="page-heading">Certifications</h2>
 {% include "partials/certification.njk" %}
 </div>
 </div>

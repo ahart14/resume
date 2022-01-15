@@ -1,7 +1,7 @@
 {% for portfolio in collections.portfolio | reverse %}
 <div class="project">
 <p class="project-date">{{ portfolio.data.year }}</p>
-<h3 class="project-title">{{ portfolio.data.title }}</h3>
+<h2 class="project-title">{{ portfolio.data.title }}</h2>
 <p class="project-company">{{ portfolio.data.company }}</p>
 <toggle-section open="false">
   <h3 id="{{ portfolio.data.title }}">About the {{ portfolio.data.title }} project</h3>
