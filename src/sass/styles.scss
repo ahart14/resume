@@ -469,30 +469,6 @@ a[aria-current=page] {
     border-top: 5px solid $primary-dark;
   }
 }
-.articleList .articleList-articleTitle {
-  margin-bottom: 15px;
-}
-.articleList .articleList-articleTitle > a:link,
-.articleList .articleList-articleTitle > a:visited {
-  text-decoration: none;
-  display: block;
-  color: #039be5;
-}
-.articleList .articleList-articleTitle > a:hover {
-  color: #0277bd;
-}
-.articleList .articleList-date {
-  color: #545454;
-  margin-bottom: 55px;
-  font-size: 1rem;
-  line-height: 1.25rem;
-}
-@media (min-width: 37.5em) {
-  .articleList .articleList-date {
-    font-size: 1.125rem;
-    margin-bottom: 75px;
-  }
-}
 // portfolio expand
  toggle-section {
    display: block;
