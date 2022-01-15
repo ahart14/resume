@@ -6,6 +6,7 @@ date: "2016-01-02"
 year: "2016"
 image: /images/card-image.png
 link: https://www.hennepin.us/transit
+linkText: View the Hennepin County transit site.
 ---
 The Digital Service team's had common requests for websites to market various programs or initiatives for Hennepin County. As a result, we built a marketing template to significantly reduce the design and development time needed to complete these requests. In addition, the template included a library of components to meet the various content requirements.
 

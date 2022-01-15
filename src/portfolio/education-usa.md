@@ -6,6 +6,7 @@ date: "2015-01-01"
 year: "2015"
 image: /images/card-image.png
 link: https://educationusa.state.gov/
+linkText: View the Education USA site.
 ---
 <p class="toggle-role">My role included:</p>
 

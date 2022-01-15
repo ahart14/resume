@@ -6,6 +6,7 @@ date: "2020-01-01"
 year: "2020"
 image: /images/card-image.png
 link: https://www.hennepin.us/
+linkText: View the Hennepin.us site.
 ---
 Hennepin.us is the primary digital public service portal for Hennepin County. The Digital Service team manages all aspects of the site, including content strategy, design and usability standards, service and application integration, support and administration of the content management system, development, vendor management, and hosting. This service portal was a primary ongoing task and the team's main priority. This enterprise product required partnerships and collaboration across all county departments.
 

@@ -6,6 +6,7 @@ date: "2016-01-01"
 year: "2016"
 image: /images/card-image.png
 link: https://reddoorclinic.org/
+linkText: View the Red Door Clinic site.
 ---
 The Red Door Clinic requested help from the Digital Service team for a full website upgrade and redesign. The Red Door Clinic is the largest HIV and STD clinic in Minnesota and a landmark for health care services in Hennepin County. We wanted their digital presence to reflect that and foster trust in the communities that they serve.
 

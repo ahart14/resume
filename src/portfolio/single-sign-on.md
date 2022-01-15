@@ -6,6 +6,7 @@ date: "2019-01-01"
 year: "2019"
 image: /images/card-image.png
 link: https://citizenadvisoryapplication.hennepin.us/
+linkText: View the Citizen Advisory Board application.
 ---
 The Digital Service team was brought in to improve Hennepin County's single sign-on tool and its user experience using Microsoft B2C. The existing enterprise sign-on solution did not meet user experience standards, did not offer basic features, was quite buggy, and too expensive to support.
 

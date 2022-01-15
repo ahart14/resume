@@ -6,6 +6,7 @@ date: "2019-01-02"
 year: "2019"
 image: /images/card-image.png
 link: https://healthyhomes.hennepin.us/
+linkText: View the Healthy Homes eligibility assessment.
 ---
 Hennepin County's Environmental Health department requested help increasing the number of qualified households receiving grants for lead abatement and saving staff time in determining eligibility.
 

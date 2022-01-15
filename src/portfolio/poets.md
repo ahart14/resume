@@ -6,6 +6,7 @@ date: "2014-01-01"
 year: "2014"
 image: /images/card-image.png
 link: https://poets.org/
+linkText: View the American Academy of Poets site.
 ---
 The American Academy of Poets had a support contract with Advomatic. We would consistently handle maintenance and site fixes. Poets.org became a more extensive project when they requested significant site improvements, refactoring, and improved accessibility.
 

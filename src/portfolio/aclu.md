@@ -6,6 +6,7 @@ date: "2014-01-02"
 year: "2014"
 image: /images/card-image.png
 link: https://www.advomatic.com/work/aclu
+linkText: View the case study for the ACLU site.
 ---
 The ACLU came to Advomatic for a complete site upgrade and redesign to their national site. They also requested a focus on meeting strict accessibility and usability guidelines for both the public and site administrators and content managers. As part of the redesign, we delivered a library of pre-built components to allow content managers to adjust the pages' content and layout.
 

@@ -7,7 +7,7 @@
   <h3 id="{{ portfolio.data.title }}">About the {{ portfolio.data.title }} project</h3>
   <div class="toggle-content">
  {{ portfolio.templateContent | safe }}
- <p><a href="{{ portfolio.data.link }}">View the {{ portfolio.data.title }} site.</a></p>
+ <p><a href="{{ portfolio.data.link }}" target="_blank">{{ portfolio.data.linkText }}</a></p>
   </div>
 </toggle-section>
 </div>
