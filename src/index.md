@@ -25,7 +25,7 @@ contactPhone: "(612)396-4479"
 <div class="content">
 <div class="content-measure">
 <div class="content-indent">
-<h2>Skills</h2>
+<h2 class="page-heading">Skills</h2>
 <p>Adaptability, curiousity/eager to learn, analytical, problem solving, design thinking, organizational strategy, web governance/leadership, staff supervision/management, front-end development (HTML, CSS, JS, responsive design, frameworks, Sass, Gulp/Grunt), user experience (prototyping, wireframing, user journeys, IA, usability testing), web content management systems (Sitecore, Drupal, WordPress), design systems/pattern libraries, accessibility/WCAG, Google Analytics, SEO, Git/GitHub
 </p>
 <p><strong>Experience with:</strong></p>
