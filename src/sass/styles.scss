@@ -386,7 +386,7 @@ figcaption {
   font-size: 16px;
   font-weight: 700;
   list-style: none;
-  color: #fff
+  color: #000;
 }
 @media (min-width: 50em) {
   .footer-list {
@@ -409,11 +409,11 @@ figcaption {
 }
 footer a:link,
 footer a:visited {
-  color: #fff;
+  color: #000;
 }
 footer a:hover,
 footer a:focus {
-  color: #fff;
+  color: #000;
 }
 footer a:active,
 a[aria-current=page] {
