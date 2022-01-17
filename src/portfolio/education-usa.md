@@ -2,8 +2,8 @@
 title: Education USA
 company: Advomatic
 summary: Front end developement on the Education USA site. 
-date: "2015-01-01"
-year: "2015"
+date: "2014-01-02"
+year: "2014-2015"
 image: /images/card-image.png
 link: https://educationusa.state.gov/
 linkText: View the Education USA site.

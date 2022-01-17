@@ -12,6 +12,6 @@ The Red Door Clinic requested help from the Digital Service team for a full webs
 
 <p class="toggle-role">My role included:</p>
 
-- front-end development
-- coding and implementing to design spec
-- reviewing to ensure all areas met usability and accessibility standards
+- Front-end development
+- Coding and implementing to design spec.
+- Reviewing to ensure all areas met usability and accessibility standards.

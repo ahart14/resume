@@ -3,7 +3,7 @@ title: ACLU affiliates
 company: Advomatic
 summary: The ACLU state affiliates were all previously supporting separate websites with divergent branding. 
 date: "2015-01-01"
-year: "2015"
+year: "2015-2016"
 image: /images/card-image.png
 link: https://www.advomatic.com/work/american-civil-liberties-union-aclu-affiliates
 linkText: View the case study for the ACLU affiliate sites.

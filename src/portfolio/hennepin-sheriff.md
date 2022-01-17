@@ -3,7 +3,7 @@ title: Hennepin County Sheriff's Office
 company: Hennepin County Digital Service
 summary: The Hennepin County Sheriff's office had an outdated and unsupported site and needed a full site redesign and build.
 date: "2018-01-01"
-year: "2018"
+year: "2017-2018"
 image: /images/card-image.png
 link: https://www.hennepinsheriff.org/
 linkText: View the Hennepin County Sheriff's Office site.

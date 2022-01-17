@@ -2,8 +2,8 @@
 title: ACLU
 company: Advomatic
 summary: The ACLU came to Advomatic for a full site upgrade and redesign to their national site.
-date: "2014-01-02"
-year: "2014"
+date: "2014-01-03"
+year: "2014-2015"
 image: /images/card-image.png
 link: https://www.advomatic.com/work/aclu
 linkText: View the case study for the ACLU site.
