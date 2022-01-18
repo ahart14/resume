@@ -3,7 +3,7 @@ title: Marketing site template
 company: Hennepin County Digital Service
 summary: The Digital Service team's had common requests for websites to market various programs or initiatives for Hennepin County.
 date: "2016-01-02"
-year: "2016"
+year: "2016-2017"
 image: /images/card-image.png
 link: https://www.hennepin.us/transit
 linkText: View the Hennepin County transit site.
