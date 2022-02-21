@@ -2,7 +2,7 @@
 title: Hennepin.us
 company: Hennepin County Digital Service
 summary: Hennepin.us is the primary digital public service portal for Hennepin County.
-date: "2020-01-01"
+date: "2020-01-02"
 year: "2016-2021"
 image: /images/card-image.png
 link: https://www.hennepin.us/
