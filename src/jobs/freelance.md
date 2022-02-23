@@ -15,4 +15,4 @@ themes.
 - Create custom, responsive themes from provided design: write
 HTML/CSS; customize PHP templates; ensure cross-browser
 compatibility.
-- Customize web store templates and convert
+- Customize web store templates and convert stores to a mobile-friendly, responsive design.
