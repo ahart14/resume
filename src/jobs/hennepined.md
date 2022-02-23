@@ -1,7 +1,7 @@
 ---
 title: "Hennepin County Enterprise Development"
 summary: "Web Specialist"
-dates: "2008-2012"
+dates: "2008-2014"
 location: "Minneapolis, MN"
 date: "2008"
 ---
