@@ -1,7 +1,7 @@
 ---
 title: Resume
-description: I’m a UX Engineer from Minneapolis, MN with a background in designing technical solutions for government, non-profit, and advocacy-based organizations.
-metaDesc: I'm a UX Engineer from Minneapolis, MN with a background in designing technical solutions for government, non-profit, and advocacy-based organizations.
+description: Combining people skills, technical knowledge, adaptability, and a mission-driven attitude to find fair, successful solutions to challenges for government, non-profit, and advocacy-based organizations.
+metaDesc: Combining people skills, technical knowledge, adaptability, and a mission-driven attitude to find fair, successful solutions to challenges for government, non-profit, and advocacy-based organizations.
 layout: home.njk
 contactEmail: "andrew.hart14@gmail.com"
 contactPhone: "(612)396-4479"
@@ -35,26 +35,12 @@ contactPhone: "(612)396-4479"
 <li>Organizational strategy</li>
 <li>Web governance/leadership</li>
 <li>Staff supervision/management</li>
-<li>Front-end development (HTML, CSS, JS, responsive design, frameworks, Sass, Gulp/Grunt)</li>
-<li>User experience (prototyping, wireframing, user journeys, IA, usability testing)</li>
-<li>Web content management systems (Sitecore, Drupal, WordPress)</li>
-<li>Design systems/pattern libraries</li>
-<li>Accessibility/WCAG</li>
-<li>Google Analytics</li>
+<li>Web development</li>
+<li>User experience design</li>
+<li>Web content management</li>
 <li>SEO</li>
-<li>Git/GitHub</li>
-</ul>
-<p><strong>Experience with:</strong></p>
-<ul class="list-compact">
-<li>RESTful Services and APIs</li>
-<li>JAMstack/Static site generators</li>
-<li>Angular</li>
-<li>Vue.js</li>
-<li>PHP/Apache/MySQL</li>
-<li>.NET/C# stack</li>
-<li>Microsoft Azure DevOps</li>
-<li>Microsoft IIS/SQL server</li>
-<li>ArcGIS</li>
+<li>Accessibility</li>
+<li>Google Analytics</li>
 </ul>
 </div>
 </div>
