@@ -18,7 +18,6 @@ business and user needs, ensuring a successful outcome.
 - Handled UX engineer duties, collaborated and consulted with countywide staff
 on design and development, research, data, governance and standards, support,
 and training. Prioritized projects that included reusable and repeatable elements
-and provided value countywide. Successfully advocated for and delivered projects
-introducing modern solution architecture and a countywide UI design system.
+and provided value countywide.
 - Provided support that required quick triage and resolution for issues impacting
 resident service access for a platform that received 15+ million visits annually.
