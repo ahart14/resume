@@ -35,12 +35,26 @@ contactPhone: "(612)396-4479"
 <li>Organizational strategy</li>
 <li>Web governance/leadership</li>
 <li>Staff supervision/management</li>
-<li>Web development</li>
-<li>User experience design</li>
-<li>Web content management</li>
-<li>SEO</li>
-<li>Accessibility</li>
+<li>Front-end development (HTML, CSS, JS, responsive
+design, frameworks, Sass, Gulp/Grunt)</li>
+<li>User Experience (prototyping, wireframing,
+user journeys, IA, usability testing)</li>
+<li>Web content management systems (Sitecore, Drupal, WordPress)</li>
+<li>Design systems/pattern libraries</li>
+<li>Accessibility/WCAG</li>
 <li>Google Analytics</li>
+<li>SEO</li>
+<li>Git/GitHub</li>
+</ul>
+<h3>Experience with:</h3>
+<ul class="list-compact">
+<li>RESTful Services and APIs</li>
+<li>JAMstack/SSG’s</li>
+<li>Angular, Vue.js</li>
+<li>PHP/Apache/MySQL</li>
+<li>.NET/C# stack</li>
+<li>Microsoft Azure DevOps</li>
+<li>Microsoft IIS/SQL server</li>
 </ul>
 </div>
 </div>
