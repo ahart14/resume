@@ -17,14 +17,6 @@ contactPhone: "(612)396-4479"
 <div class="content">
 <div class="content-measure">
 <div class="content-indent">
-<h2 class="page-heading">Certifications</h2>
-{% include "partials/certification.njk" %}
-</div>
-</div>
-</div>
-<div class="content">
-<div class="content-measure">
-<div class="content-indent">
 <h2 class="page-heading">Skills</h2>
 <ul class="list-compact">
 <li>Adaptability</li>
@@ -46,16 +38,14 @@ user journeys, IA, usability testing)</li>
 <li>SEO</li>
 <li>Git/GitHub</li>
 </ul>
-<h3>Experience with:</h3>
-<ul class="list-compact">
-<li>RESTful Services and APIs</li>
-<li>JAMstack/SSG’s</li>
-<li>Angular, Vue.js</li>
-<li>PHP/Apache/MySQL</li>
-<li>.NET/C# stack</li>
-<li>Microsoft Azure DevOps</li>
-<li>Microsoft IIS/SQL server</li>
-</ul>
+</div>
+</div>
+</div>
+<div class="content">
+<div class="content-measure">
+<div class="content-indent">
+<h2 class="page-heading">Certifications</h2>
+{% include "partials/certification.njk" %}
 </div>
 </div>
 </div>

@@ -1,26 +1,23 @@
 ---
 title: "Hennepin County Communications"
-summary: "Division Manager/UX Engineer"
+summary: "UX Engineer/Manager"
 dates: "2016-2021"
 location: "Minneapolis, MN"
 date: "2016"
 ---
-#### Development and design duties
-- Deliver front-end code, prototypes, wireframes, information architecture, user journeys, and user flows.
-- Collaborate on design, user research, user testing, content strategy, solution and application architecture, technical requirements, and development.
-- Design, development, testing, and implementation of new frameworks, patterns, components, and sites.
-
-#### Staff supervision and management duties
-- Supervise UX designers, content strategists, QA, and support staff.
-- Prioritize work, identify opportunities for growth and development, review work, and provide helpful feedback.
-- Key liaison for vendors who handle web infrastructure and supplemental development.
-
-#### Organizational strategy duties
-- Advocate for and negotiate UX role in projects, making sure UX work also fulfilled the needs of the business.
-- Collaborate with Enterprise Architecture in technology selection for projects and enterprise approval to build repeatable, modern development patterns.
-
-#### Design strategy duties
-- Consultant for enterprise-wide staff on various topics such as UX/UI design and development, analytics, SEO, branding, accessibility, technical support, and triage.
-
-#### Critical support duties
-- Development, support, and administrative duties for Hennepin County’s primary web content management system, Sitecore.
+- Various responsibilities as both a manager and an individual contributor,
+handling organizational strategy, staff supervision, web development, design, and
+support.
+- Led the initiative to create the Digital Service division, responsible for managing
+the county’s main public web and digital presence.
+- Staff supervision duties including work prioritization, identifying and supporting
+opportunities for staff’s growth and development, providing constructive
+feedback and support, and determining staffing needs and role definitions.
+- Advocating for and negotiating the team’s role in projects, defining
+responsibilities between departments, and resourcing duties appropriately.
+- Handling web development and user experience design duties.
+- Collaborating and consulting with enterprise-wide staff on various topics such as
+design and development, branding, accessibility, technical support, and triage.
+- Liaison for vendors, defining requirements, ensuring deliverables are met,
+handling contract negotiations, budgeting, and finances.
+- Support duties requiring quick triage and resolution for issues impacting

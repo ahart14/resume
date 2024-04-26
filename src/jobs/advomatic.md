@@ -5,8 +5,5 @@ dates: "2014-2016"
 location: "Remote"
 date: "2014"
 ---
-- Front-end developer on projects building custom Drupal and WordPress sites.
-- Implement designs as custom site themes and HTML prototypes.
-- Conduct peer code reviews, cross-browser/device testing, and ensure accessibility standards are met.
-- Provide client support.
-- Site building tasks and content management system configuration.
+- Front-end web development for advocacy, non-profit, and government organizations such as ACLU, Department of Education, American Federation of Teachers, Community Solutions, and American Academy of Poets.
+- Client support, training, and content management system configuration, including integration and scripting of Salesforce and Zendesk.
