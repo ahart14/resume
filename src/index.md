@@ -28,7 +28,7 @@ contactPhone: "(612)396-4479"
 <li>Web governance/leadership</li>
 <li>Staff supervision/management</li>
 <li>User Experience (prototyping, wireframing,
-user journeys, IA, usability testing, Figma, Adobe XD)</li>
+user journeys, IA, usability testing, Figma, Adobe XD, Balsamiq)</li>
 <li>Front-end development (HTML, CSS, JS, responsive
 design, frameworks, Sass, Gulp/Grunt)</li>
 <li>Design systems/pattern libraries</li>
