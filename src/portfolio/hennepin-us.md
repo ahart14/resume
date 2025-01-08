@@ -12,8 +12,8 @@ Hennepin.us is the primary digital public service portal for Hennepin County. Th
 
 <p class="toggle-role">My role with Hennepin.us spanned a wide range of responsibilities, including:</p>
 
-- Collaborating on design, user research, user testing, content strategy, solution and application architecture, technical requirements, development, and branding.
-- Consulting with enterprise-wide staff on various topics such as UX/UI design and development, application and solution architecture, development practices, branding, accessibility, analytics, SEO, server administration, and technical or content support.
+- Conduct and collaborate on design, user research, user testing, content strategy, solution and application architecture, technical requirements, development, and branding.
+- Assist and consult with enterprise-wide staff on various topics such as UX/UI design and development, application and solution architecture, development practices, branding, accessibility, analytics, SEO, server administration, and technical or content support.
 - Planning methods to incorporate and implement applications and services.
 - Developing governance and defining standards across the enterprise.
 - Creating an organizational strategy for the web and defining responsibilities between departments.

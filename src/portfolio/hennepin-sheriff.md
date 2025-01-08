@@ -13,6 +13,7 @@ The Hennepin County Sheriff's office had an outdated and unsupported site and ne
 <p class="toggle-role">My role included:</p>
 
 - Leading staff through the content audit and information architecture process.
+- Build user testing scripts, conduct user testing sessions, facilitate analysis sessions.
 - Delivering wireframes and prototypes.
 - Working with brand designers on the mockups.
 - Coding front-end to spec from designs.

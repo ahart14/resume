@@ -14,7 +14,7 @@ The Digital Service team determined it was necessary to improve Hennepin County'
 
 - Working with enterprise architects to understand business cases for selecting the correct tool and understanding technical requirements.
 - Delivering user flows and wireframes.
-- Leading usability testing sessions.
+- Build user testing scripts, conduct user testing sessions, facilitate analysis sessions.
 - Consulting on the feasibility of visual design iterations.
 - Developing the front-end code and tool customization to match the designed flows and wireframes.
 - Building a proof-of-concept service portal to demonstrate how to use single-sign-on across the enterprise.
