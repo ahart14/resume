@@ -5,12 +5,11 @@ dates: "2016-2021"
 location: "Minneapolis, MN"
 date: "2016"
 ---
-- Various responsibilities as both a manager and an individual contributor, handling user experience design, web development, organizational strategy, staff supervision, and critical support.
-- Led the initiative to create the organization’s Digital Service division, having an integral role in bringing a user-centered focus to service design while functioning as product manager for the organization’s main public web and digital presence.
-- Deliver front-end code, prototypes, wireframes, information architecture, user journeys, and user flows.
-- Conduct product design, user research, user testing, content strategy, solution and application architecture, technical requirements, and development.
-- Handle design, development, testing, and implementation of new frameworks,
-patterns, components, and sites.
-- Advocate for and negotiate UX roles in projects, ensuring that the needs of the users and business are met.
-- Consultant for enterprise-wide staff on various topics such as UX/UI design and development, architecture, analytics, SEO, branding, accessibility, and technical support.
-- Support duties requiring quick triage and resolution for issues impacting resident service access for a platform that received 15+ million visits annually.
+- Various responsibilities as both a division manager and an individual contributor, handling organizational strategy, staff supervision, web development, design, and support.
+- Led the initiative to create the Digital Service division, responsible for managing the county's main public web and digital presence, a platform that received 15+ million visits annually.
+- Partnered and collaborated with enterprise-wide departments and staff to design, develop, and maintain services that successfully met department and organizational requirements while advocating for and meeting user needs.
+- Advocating for and negotiating the Digital Service division's role in projects, defining responsibilities between departments, and resourcing duties appropriately.
+- Managing partner and vendor relationships — defining requirements, evaluating deliverables, handling contract negotiations, budgeting, and finances.
+- Staff supervision duties including work prioritization, identifying and supporting opportunities for staff members' development, providing constructive feedback and support, and determining staffing needs and role definitions.
+- Performing web development and user experience design duties.
+- Support duties requiring quick triage and resolution of urgent issues.

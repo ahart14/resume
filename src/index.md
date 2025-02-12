@@ -25,18 +25,13 @@ contactPhone: "(612)396-4479"
 <li>Problem solving</li>
 <li>Design thinking</li>
 <li>Organizational strategy</li>
-<li>Web governance/leadership</li>
+<li>Governance/leadership</li>
 <li>Staff supervision/management</li>
-<li>User Experience (prototyping, wireframing,
-user journeys, IA, usability testing, Figma, Adobe XD, Balsamiq)</li>
-<li>Front-end development (HTML, CSS, JS, responsive
-design, frameworks, Sass, Gulp/Grunt)</li>
-<li>Design systems/pattern libraries</li>
-<li>Accessibility/WCAG</li>
-<li>Google Analytics</li>
-<li>SEO</li>
-<li>Web content management systems (Sitecore, Drupal, WordPress)</li>
-<li>Git/GitHub</li>
+<li>Web development</li>
+<li>User experience research/design</li>
+<li>Content management systems</li>
+<li>Accessibility</li>
+<li>SEO/Analytics</li>
 </ul>
 </div>
 </div>
