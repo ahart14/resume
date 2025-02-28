@@ -19,19 +19,29 @@ contactPhone: "(612)396-4479"
 <div class="content-indent">
 <h2 class="page-heading">Skills</h2>
 <ul class="list-compact">
-<li>Adaptability</li>
-<li>Curiousity/eager to learn</li>
-<li>Analytical</li>
-<li>Problem solving</li>
+<li>Web content management systems (Sitecore, Drupal, WordPress)</li>
+<li>Front-end development (HTML, CSS, JS, responsive design, CSS frameworks, Sass, Gulp/Grunt)</li>
+<li>User Experience (prototyping, wireframing, user journeys, IA, usability testing)</li>
+<li>Design systems/pattern libraries</li>
+<li>Accessibility/WCAG</li>
+<li>Google Analytics</li>
+<li>SEO</li>
+<li>Git/GitHub</li>
 <li>Design thinking</li>
 <li>Organizational strategy</li>
-<li>Governance/leadership</li>
+<li>Web governance/leadership</li>
 <li>Staff supervision/management</li>
-<li>Web development</li>
-<li>User experience research/design</li>
-<li>Content management systems</li>
-<li>Accessibility</li>
-<li>SEO/Analytics</li>
+</ul>
+<h3 class="toggle-role">Experience with:</h3>
+<ul class="list-compact">
+<li>RESTful Services and APIs</li>
+<li>JAMstack/SSG’s</li>
+<li>React</li>
+<li>Angular, Vue.js</li>
+<li>PHP/Apache/MySQL</li>
+<li>.NET/C# stack</li>
+<li>Microsoft Azure DevOps</li>
+<li>Microsoft IIS/SQL server</li>
 </ul>
 </div>
 </div>
